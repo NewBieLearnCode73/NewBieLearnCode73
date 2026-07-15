@@ -1,47 +1,87 @@
-<h2 align="center">Hi 👋, I'm DinhChieu!<br>✨ I'm a self-taught programmer, exploring the fascinating world of coding. 🚀</h2>
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7F&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DinhChieu!+Nice+to+meet+you!+%E2%9C%A8%3BA+passionate+self-taught+developer+%F0%9F%92%BB%3BLet's+build+something+awesome+together!+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
 
-###
-
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
-</div>
-
-###
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/chieunguyen73/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ndchieu73@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/inhchieu.672795" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/ndchieu73/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <img src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif" width="380" alt="Anime Coding GIF" style="border-radius: 10px; margin: 10px 0;" />
+</p>
+
+---
+
+### 💫 About Me
+
+I am a passionate self-taught developer who loves building applications, learning new technologies, and writing clean, efficient code. 
+
+- 🔭 **I’m currently working on:** Personal projects & building solid backend architectures.
+- 🌱 **I’m currently learning:** Advanced Java patterns, microservices architecture, and cloud deployment.
+- 💬 **Ask me about:** Java, Spring Boot, or basic web development.
+- ⚡ **Fun fact:** I love solving problems and debugging code late at night!
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h4>🌐 Frontend</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>⚙️ Backend</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>🔧 DevOps & Tools</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chieunguyen73&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="DinhChieu's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chieunguyen73&layout=compact&theme=tokyonight" alt="DinhChieu's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chieunguyen73&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?key=chieunguyen73&logo=github&color=555555&label=Profile+Views" alt="Profile Views" />
+</p>
+
