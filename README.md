@@ -5,16 +5,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chieunguyen73/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ndchieu73@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/inhchieu.672795" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/ndchieu73/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="mailto:ndchieu73@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
   </a>
 </p>
 
@@ -62,26 +62,9 @@ I am a passionate self-taught developer who loves building applications, learnin
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chieunguyen73&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="DinhChieu's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chieunguyen73&layout=compact&theme=tokyonight" alt="DinhChieu's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 💬 Code & Wisdom
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chieunguyen73&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?key=chieunguyen73&logo=github&color=555555&label=Profile+Views" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
